@@ -1,0 +1,26 @@
+            @font-face {
+                font-family: 'ubuntu';
+                src: url('HauntedHillRegular-Regular.ttf');
+            }
+
+
+            h1, h2, h3{
+                color: navy;
+            }
+
+            body{
+
+                background-color: ghostwhite;
+                font-family: ubuntu, sans-serif;
+            
+            }
+
+            header, main, footer{
+                width: 600px;
+                background-color: white;
+                margin: auto;
+                padding: 20px;
+
+            }
+
+
